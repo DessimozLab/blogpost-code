@@ -1,0 +1,25 @@
+GO-Figure! version: 1.0
+
+Date run: 2020-12-08
+
+Command line input: ['/Users/nglover/Applications/GO-Figure/gofigure.py', '-i', '/Users/nglover/DessimozRepos/blogpost-code/enrichedGOterms.tsv', '-o', 'gofigure/', '--legend', 'full', '--title', 'Enriched GO terms for human-banana orthologs', '--cluster_labels', 'description-numbered']
+
+GOA version used to calculate IC and frequencies: 2020-10-06
+
+go.obo version used: releases/2020-11-18
+
+go.obo version used to create GO relations: releases/2020-11-18
+
+
+Calculating biological process
+
+
+Calculating molecular function
+
+No GO terms for ontology found: molecular_function
+
+
+Calculating cellular component
+
+No GO terms for ontology found: cellular_component
+
